@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.myApp')
 
 @section('content')
 <h3>Create Todo</h3>
